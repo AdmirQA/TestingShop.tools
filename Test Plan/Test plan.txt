@@ -1,0 +1,139 @@
+Objective
+......
+
+The objective of a test plan for site https://shop.demoqa.com/ is to ensure that the site is functioning correctly and meeting the needs of its users. 
+
+We focus on:
+
+Functionality testing: To ensure that all functions of the e-commerce site are working as expected, 
+including product browsing, adding products to the cart, completing orders, and processing payments.
+
+Usability testing: To assess the ease of use and user experience of the e-commerce site. 
+This could involve testing the site's navigation, search functionality, and checkout process to ensure they are intuitive and user-friendly.
+
+Compatibility testing: To check that the e-commerce site is compatible with different browsers, 
+operating systems, and devices, and that it can display correctly on different screen sizes.
+
+Performance testing: To test the speed and performance of the e-commerce site, including page load times, 
+checkout times, and response times for different user actions.
+
+Esspecially focusing on Smoke Testing -  is to verify that the critical features of the e-commerce site are working as expected.
+
+
+Scope
+.......
+
+Functionality: 
+I should include a thorough evaluation of the site's core functionality, such as browsing and searching for products, adding products to the cart, 
+completing the checkout process, and processing payments. This could include testing different scenarios, 
+such as adding products to the cart and then abandoning the cart, or entering incorrect information during checkout.
+
+
+Usability: 
+I should evaluate the ease of use and user experience of the https://shop.demoqa.com/ site. This could include testing the site's navigation, search functionality, 
+and checkout process to ensure they are intuitive and user-friendly. The plan should also consider testing
+the site's mobile responsiveness and accessibility features.
+Site navigation
+Product browsing
+Adding a product to the cart
+Checkout process
+Mobile responsiveness
+
+
+Performance:
+Here I should evaluate the performance of the e-commerce site under different conditions, such as testing page load times, 
+checkout times, and response times for different user actions.
+
+Approach
+.........
+
+I prioritize test cases with the test scenarios identified, the test cases based on their impact and importance. 
+This will ensure that critical areas are tested first and any major issues are identified.
+I will use manual and auto testing in the proces and share bug raports in order : low, medium, high, critical.
+
+Roles and Responsibilities
+.......
+
+I Admir Arap QA am responsible for developing a testing plan that outlines the testing approach, 
+the scope of the testing, and the testing methodologies that will be used.  Also I am  responsible for developing test cases that cover 
+all the functional and non-functional requirements of the system and create test cases, inputs, and outputs.
+
+As QA tester on this project I will executing the test cases, documenting the results, and reporting any defects. 
+Which will ensure that all test cases are executed as per the test plan and report any defects to the development team.
+I will track and manage the defects that are reported during testing. This is the way that all defects are documented and tracked until they are resolved.
+
+
+I will also create some Test Automation develop and maintain automated test scripts that can be used to execute test cases. 
+Using Selenium web driver and PyTest.
+
+
+Environment
+........
+
+I will test site https://shop.demoqa.com/
+Using Desktop PC 
+AMD Ryzen 5 2400G with Radeon Vega Graphics 3.60 GHz
+32,0 GB 
+64-bit operating system, x64-based processor
+Windows 10 Pro
+Ethernet and WI FI conection.
+Browsers: Chrome, Firefox, Edge.
+Android Studio Emulators for Mobile devices.
+
+
+Test Automation
+.......
+
+For execution and replicate test cases you will need :
+Selenium WebDriver, Chrome WebDriver, pip, and pytest on a Windows machine:
+
+Install Python: First, download and install the latest version of Python from the official Python website: https://www.python.org/downloads/
+
+Install pip: After installing Python, pip should be available automatically. If not, you can install pip by following the instructions on this page: https://pip.pypa.io/en/stable/installing/
+
+Install Selenium WebDriver: Use pip to install the Selenium WebDriver for Python. Open a command prompt and run the following command:
+
+pip install selenium
+
+Download Chrome WebDriver: Download the latest version of the Chrome WebDriver executable for your operating system from this page: https://chromedriver.chromium.org/downloads
+
+Install Chrome WebDriver: Extract the downloaded Chrome WebDriver executable and add it to your system's PATH environment variable. This will enable you to run the WebDriver from any directory.
+
+Install Pytest: Use pip to install Pytest. Open a command prompt and run the following command:
+
+pip install pytest
+
+You should now have Selenium WebDriver, Chrome WebDriver, pip, and Pytest installed on your Windows machine. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
