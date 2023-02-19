@@ -1,0 +1,26 @@
+
+
+Test cases - part 1 (FT) -- https://shop.demoqa.com/
+
+..........
+
+TC1  - Verify that the homepage loads correctly.
+TC2  - Verify that the search bar is functional and displays relevant search results.
+TC3  - Verify that the products are listed under the correct categories and subcategories. 
+TC4  - Verify that the product details page displays all the necessary information about the product, 
+       such as price, product description, product images, etc.
+TC5  - Verify that the product images can be zoomed in and out.
+TC6  - Verify that the "Add to Cart" button is functional. 
+TC7  - Verify that the cart displays the correct total amount of the products added to it.
+TC8  - Verify that the user can remove products from the cart.
+TC9  - Verify that the user can update the quantity of products in the cart.
+TC10 - Verify that the user can proceed to checkout from the cart.
+TC11 - Verify that the checkout process is simple and easy to follow.
+TC12 - Verify that the user can enter their billing and shipping details during checkout. 
+TC13 - Verify that the user can choose their preferred payment method.
+TC14 - Verify that the user receives a confirmation message after completing their order. 
+TC15 - Verify that the user receives an email confirmation of their order.
+TC16 - Verify that the website's navigation and links are functional.
+TC17 - Verify that the website is mobile-friendly and responsive on different screen sizes.
+TC18 - Verify that the website's images and multimedia content are optimized for quick loading times.
+TC19 - Verify that the website's caching and load-balancing systems are optimized for quick response times.

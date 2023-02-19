@@ -1,0 +1,1 @@
+cart displays the correct total amount of the products added to it

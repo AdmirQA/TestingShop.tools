@@ -1,0 +1,1 @@
+user can remove products from the cart.

@@ -1,0 +1,25 @@
+
+
+Test Cases p2(UT) -- https://shop.demoqa.com/
+
+..........
+
+TC1  -  Verify that the website is easy to navigate.
+TC2  -  Verify that the website is visually appealing and has an intuitive layout.
+TC3  -  Verify that the website has a search bar that is easy to locate and use.
+TC4  -  Verify that the website provides clear and concise product descriptions.
+TC5  -  Verify that the website has high-quality product images.
+TC6  -  Verify that the website has easy-to-find contact information for customer support.
+TC7  -  Verify that the website has a clear and easy-to-use shopping cart.
+TC8  -  Verify that the website provides clear shipping and return policies.
+TC9  -  Verify that the website provides clear pricing information and any additional fees.
+TC10 -  Verify that the website has a clear and easy-to-use checkout process.
+TC11 -  Verify that the website provides clear payment options and payment instructions.
+TC12 -  Verify that the website has a clear and prominent call-to-action button on every page. 
+TC13 -  Verify that the website loads quickly and is responsive.
+TC14 -  Verify that the website has user-friendly error messages and feedback mechanisms.
+TC15 -  Verify that the website has clear links to its social media accounts.
+TC16 -  Verify that the website provides clear instructions on how to create an account.
+TC17 -  Verify that the website provides a clear and easy-to-use login page.
+TC18 -  Verify that the website has a responsive and user-friendly design across different devices and browsers.
+

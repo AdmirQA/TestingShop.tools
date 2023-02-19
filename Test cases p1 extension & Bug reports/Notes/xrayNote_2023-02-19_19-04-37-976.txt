@@ -1,0 +1,1 @@
+user can enter their billing and shipping details during checkout

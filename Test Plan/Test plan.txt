@@ -5,16 +5,16 @@ The objective of a test plan for site https://shop.demoqa.com/ is to ensure that
 
 We focus on:
 
-Functionality testing: To ensure that all functions of the e-commerce site are working as expected, 
+Functionality testing: To ensure that all functions of the site are working as expected, 
 including product browsing, adding products to the cart, completing orders, and processing payments.
 
-Usability testing: To assess the ease of use and user experience of the e-commerce site. 
+Usability testing: To assess the ease of use and user experience of the site. 
 This could involve testing the site's navigation, search functionality, and checkout process to ensure they are intuitive and user-friendly.
 
 Compatibility testing: To check that the e-commerce site is compatible with different browsers, 
 operating systems, and devices, and that it can display correctly on different screen sizes.
 
-Performance testing: To test the speed and performance of the e-commerce site, including page load times, 
+Performance testing: To test the speed and performance , including page load times, 
 checkout times, and response times for different user actions.
 
 Esspecially focusing on Smoke Testing -  is to verify that the critical features of the e-commerce site are working as expected.
@@ -54,7 +54,7 @@ I will use manual and auto testing in the proces and share bug raports in order 
 Roles and Responsibilities
 .......
 
-I Admir Arap QA am responsible for developing a testing plan that outlines the testing approach, 
+I am  as a QA responsible for developing a testing plan that outlines the testing approach, 
 the scope of the testing, and the testing methodologies that will be used.  Also I am  responsible for developing test cases that cover 
 all the functional and non-functional requirements of the system and create test cases, inputs, and outputs.
 

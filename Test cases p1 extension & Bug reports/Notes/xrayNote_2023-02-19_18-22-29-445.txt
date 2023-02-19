@@ -1,0 +1,2 @@
+Web Page [https://shop.demoqa.com/|https://shop.demoqa.com/] is loading
+corectly.

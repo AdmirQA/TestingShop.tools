@@ -1,0 +1,2 @@
+Page displays some of the necessary information about the product but is poorly
+designed and very ugly

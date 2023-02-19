@@ -1,0 +1,62 @@
+Running 'Test Automation - Filter Color ID - B04'
+1.
+open on / OK
+
+2.
+setWindowSize on 1936x1056 OK
+
+3.
+click on linkText=Checkout OK
+4.
+click on css=.wc-backward OK
+
+5.
+click on name=filter_color OK
+
+6.
+select on name=filter_color with value label=Black OK
+
+'Test Automation - Filter Color ID - B04' completed successfully
+
+Running 'Test Automation - Filter Color ID - B04'
+
+1.
+open on / OK
+
+2.
+setWindowSize on 1936x1056 OK
+
+3.
+click on linkText=Checkout OK
+
+4.
+click on css=.wc-backward OK
+
+5.
+click on name=filter_color OK
+
+6.
+select on name=filter_color with value label=Black OK
+
+'Test Automation - Filter Color ID - B04' completed successfully
+
+Running 'Test Automation - Filter Color ID - B04'
+
+1.
+open on / OK
+2.
+setWindowSize on 1936x1056 OK
+
+3.
+click on linkText=Checkout OK
+
+4.
+click on css=.wc-backward OK
+
+5.
+click on name=filter_color OK
+
+6.
+select on name=filter_color with value label=Black OK
+
+'Test Automation - Filter Color ID - B04' completed successfully

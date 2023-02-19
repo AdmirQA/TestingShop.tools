@@ -1,0 +1,26 @@
+
+
+Test cases - part 4 (MT) -- https://shop.demoqa.com/
+
+..........
+
+TC1  - Verify that the website is responsive and adjusts to different screen sizes.
+TC2  - Verify that the website's font size and style are legible on mobile devices.
+TC3  - Verify that the website's images and multimedia content are optimized for mobile devices.
+TC4  - Verify that the website's navigation is simple and easy to use on mobile devices.
+TC5  - Verify that the website's search function is easy to use and displays relevant search results.
+TC6  - Verify that the website's product details and descriptions are easy to read and navigate on mobile devices. 
+TC7  - Verify that the website's shopping cart is easy to use and displays the correct items and quantities.
+TC8  - Verify that the website's checkout process is simple and easy to follow on mobile devices.
+TC9  - Verify that the website's payment options and instructions are easy to read and understand on mobile devices.
+TC10 - Verify that the website's error messages are easy to read and understand on mobile devices.
+TC11 - Verify that the website's login and registration functions are easy to use on mobile devices.
+TC12 - Verify that the website's menu and submenus are easy to navigate on mobile devices.
+TC13 - Verify that the website's social media links are easy to find and use on mobile devices.
+TC14 - Verify that the website's performance and loading speed are optimized for mobile devices.
+TC15 - Verify that the website's images and multimedia content load quickly and are optimized for mobile devices.
+TC16 - Verify that the website's design and user interface are consistent across different mobile devices and operating        systems.
+TC17 - Verify that the website is mobile-friendly and responsive on different screen sizes.
+TC18 - Verify that the website's confirmation message and email are easy to read and understand on mobile devices.
+TC19 - Verify that the user can remove products from the cart on mobile device.
+TC20 - Verify that the user can view the items in the cart on mobile device.

@@ -1,0 +1,1 @@
+User receives an email confirmation of their order
