@@ -4,18 +4,16 @@ Introduction:
 This testing site has been created to test the various functionalities of an https://shop.demoqa.com/ website. It contains a variety of test cases that cover different aspects of the website, such as product listings, cart management. 
 This readme file provides an overview of the testing site and the steps to run the tests.
 
------
 FT - Functional testing
 UT - Usability Testing
 AT - Automated testing
 MT - Mobile testing
 ID-B_number - BUG
------
+
 PDF files provide detailed timeline and workflow for smoke test application supported with screenshots and video materials.
 
 Features:
 The testing site has the following features:
-
 Login/Logout functionality
 Product listing and search
 Product details page
